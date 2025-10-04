@@ -29,7 +29,7 @@ Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar n
 
 ## 📝 Créditos
 
-Este projeto foi desenvolvido durante o **Bootcamp [Ri Happy - Front-end do Zero #2] da DIO**, seguindo as instruções do(a) instrutor(a) [Felipão].
+Este projeto foi desenvolvido durante o **Bootcamp Ri Happy - Front-end do Zero #2 da DIO**, seguindo as instruções do(a) instrutor(a) Felipão.
 O código base e o README original foram adaptados a partir do repositório disponibilizado no curso.
 
 ---
